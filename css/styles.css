@@ -1,0 +1,113 @@
+.navbar .nav-link {
+    color: white !important;
+}
+#comprar {
+    color: green !important;
+}
+#confbs {
+    color: white !important;
+    font-weight: bold;
+    font-size: larger;
+}
+#confbs a{
+    color: white !important;
+    font-weight: bold;
+    font-size: larger;
+}
+
+.texto-confe {
+    color: white;
+    max-width: 50vw;
+    position: absolute;
+    bottom: 30px;
+    right: 10px;
+    background-color: rgba(0, 0, 0, 0.548);
+    padding: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    
+}
+.botones1 {
+    display: flex;
+    justify-content: flex-end;
+    margin-left: 5px;
+}
+
+.imgconfe{
+    width: 100%;
+}
+.oradores1{
+    color: gray;
+    margin-top: 10px;
+    text-align: center;
+}
+.oradores2{
+    margin-top: -15px;
+    text-align: center;
+}
+.oradores3{
+    text-align: center;
+}
+.oradores4 {
+    margin-top: -15px;
+    color: gray;
+
+}
+.image-container {
+    width:50vw; 
+}
+.flex-container {
+        display: flex;
+        font-size: 30px;
+}
+.flex-item-left {
+    background-color: #f1f1f1;
+}
+.flex-item-right {
+    background-color: rgb(42, 42, 42);
+    color: white;
+    padding-left: 10px;
+}
+.octubre {
+    font-weight: bold;
+}
+.octubre2{
+    font-size: large;
+}
+.punteado {
+text-decoration: underline dotted;
+}
+.form-container {
+    width: 600px;
+    margin: 0 auto;
+  }
+
+.form-row {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 10px;
+  }
+
+.form-row input,
+.form-row textarea {
+    flex: 1;
+    margin-bottom: 10px;
+  }
+
+.form-row input:last-child {
+    margin-right: 0;
+  }
+footer {
+    background-color: #552a2a;
+    padding: 20px;
+    text-align: center;
+  }
+
+ .footer-gradient a {
+    margin: 5px;
+    color: white;
+  }
+
+  .footer-gradient {
+    background: linear-gradient(to right, rgb(29,55,68), rgb(29,85,114));
+    color: white;
+  }
